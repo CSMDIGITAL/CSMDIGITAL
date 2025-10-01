@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/CSMDIGITAL/CSMDIGITAL/output/snake.svg" alt="Snake animation" />
+
+###
 <h1 align="center">👋 Olá, eu sou Cássio Soares Misquita</h1>
 
 <p align="center">
