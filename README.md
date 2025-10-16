@@ -1,4 +1,15 @@
-<img src="https://raw.githubusercontent.com/CSMDIGITAL/CSMDIGITAL/output/snake.svg" alt="Snake animation" />
+import Spline from '@splinetool/react-spline/next';
+
+export default function Home() {
+  return (
+    <main>
+      <Spline
+        scene="https://prod.spline.design/maZC25QTs3DhLQ0G/scene.splinecode" 
+      />
+    </main>
+  );
+}
+
 
 ###
 <h1 align="center">👋 Olá, eu sou Cássio Soares Misquita</h1>
